@@ -2,4 +2,11 @@ body {
   background-color: rgb(172, 224, 216);  
 }
 p{color: #956ec2;}
-h1{color: lightsalmon;}
+h1{color: lightsalmon;
+font-style: italic;}
+.laura{
+color: rgb(231, 140, 153);
+font-size: 0vh;
+}
+
+
